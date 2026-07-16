@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.4",
-    "buildNumber":  5,
-    "url":  "https://github.com/hayagerwin/reed-wallet-releases/releases/download/v0.1.4/app-release.apk",
-    "changelog":  "Migrate asset balance updates to fullscreen page with ghost touch protections and safe delete confirmations"
+    "version":  "0.1.5",
+    "buildNumber":  6,
+    "url":  "https://github.com/hayagerwin/reed-wallet-releases/releases/download/v0.1.5/app-release.apk",
+    "changelog":  "Streamline OTA Updates"
 }
