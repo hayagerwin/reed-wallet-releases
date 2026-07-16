@@ -1,6 +1,6 @@
 {
     "version":  "0.1.6",
-    "buildNumber":  8,
+    "buildNumber":  9,
     "url":  "https://github.com/hayagerwin/reed-wallet-releases/releases/download/v0.1.6/app-release.apk",
     "changelog":  "### 🔧 Release Automation \u0026 Dynamic Logs\n- **Dynamic Changelog Dialog** — Bundled the project changelog as a Flutter asset and wrote a dynamic parser to render the latest release notes in the \"What\u0027s New\" dialog, eliminating hardcoded UI notes.\n- **Automated Deployment Notes** — Refined the deployment PowerShell script to automatically parse the latest changes from `CHANGELOG.md` if the `-Changelog` parameter is omitted, making releases a simple version/build invocation.\n- **Cleaned Up Git Staging** — Removed unnecessary file overrides and automated the tracking of `CHANGELOG.md` modifications during deployments."
 }
