@@ -1,6 +1,6 @@
 {
-  "version": "0.1.2",
-  "buildNumber": 3,
-  "url": "https://github.com/hayagerwin/reed-wallet-releases/releases/download/v0.1.2/app-release.apk",
-  "changelog": "Added Firestore synchronization & background loading, resolved startup OTA update loops, and corrected display name to Reed Wallet"
+  "version": "0.1.3",
+  "buildNumber": 4,
+  "url": "https://github.com/hayagerwin/reed-wallet-releases/releases/download/v0.1.3/app-release.apk",
+  "changelog": "Improved transaction forms with toggle buttons, added ledger record editing, added safe delete dialog confirmations, redesigned asset cards symmetrically, and fixed forecast display overflows."
 }
