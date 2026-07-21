@@ -1,6 +1,6 @@
 {
     "version":  "0.5.0",
-    "buildNumber":  22,
+    "buildNumber":  23,
     "url":  "https://github.com/hayagerwin/reed-wallet-releases/releases/download/v0.5.0/app-release.apk",
     "changelog":  "### 🤖 Reed AI Financial Advisor (Powered by Google Gemini)\n- **Automatic Real-Time Financial Snapshot** — Automatically compiles and attaches a structured financial context snapshot (assets, pot balances, active debts, recurring subscriptions, 30-day cash flow, savings goals) to every chat request without requiring the user to type financial numbers.\n- **Strict Financial Scope Guardrails** — Enforces system-level instructions ensuring Reed AI strictly answers personal finance, budgeting, spending habits, debt payoff, and purchase decision evaluations (\"Should I buy X?\"), politely declining off-topic questions.\n- **Zero-Cost Bring Your Own Key (BYOK) Strategy** — Integrated Gemini API settings dialog allowing users to configure their free Google AI Studio API key stored locally on-device.\n- **Interactive AI Chat UI** — Built a dark luxury chat screen with quick prompt chips, message bubbles, typing indicator, copy response action, and clean chat history management.\n- **Quick Access Navigation** — Added direct AI Advisor launcher button in the main AppBar and dedicated tiles in the Settings Drawer."
 }
